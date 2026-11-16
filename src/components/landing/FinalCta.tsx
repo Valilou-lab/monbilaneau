@@ -4,7 +4,7 @@ import { scrollQuoteFormIntoView } from "@/components/form/scrollQuoteFormIntoVi
 
 export function FinalCta() {
   return (
-    <div className="mx-auto w-full max-w-[640px] px-4 pb-12">
+    <div className="mx-auto w-full max-w-[640px] px-4 pb-8">
       <button
         type="button"
         onClick={() => scrollQuoteFormIntoView(document.getElementById("formulaire-devis"))}

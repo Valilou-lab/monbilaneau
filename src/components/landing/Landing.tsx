@@ -6,6 +6,7 @@ import { Footer } from "./Footer";
 import { HeroTitles } from "./HeroTitles";
 import { HowItWorks } from "./HowItWorks";
 import { Logo } from "./Logo";
+import { PartnerContact } from "./PartnerContact";
 import { TrustPoints } from "./TrustPoints";
 
 /**
@@ -49,6 +50,7 @@ export function Landing() {
         <HowItWorks />
         <Faq />
         <FinalCta />
+        <PartnerContact />
       </div>
 
       <div data-hide-on-focus className="mt-auto">
