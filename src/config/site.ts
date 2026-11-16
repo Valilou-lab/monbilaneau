@@ -4,5 +4,5 @@ export const SITE = {
   // TODO: legal entity publishing the site (mentions légales, privacy policy).
   publisher: "[Raison sociale à compléter]",
   contactEmail: "[adresse e-mail à compléter]",
-  url: "https://monbilaneau.example",
+  url: "https://devis.monbilaneau.fr",
 } as const;
